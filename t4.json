@@ -45,5 +45,14 @@
       "changeable": 0,
       "style": {"type": "rect", "ratio": 1.5}
     }
+    ,
+    {
+        "tvg-id": "litv-ftv10",
+        "tvg-name": "MyCinemaEuropeHD我的歐洲電影",
+        "tvg-logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png",
+        "group-title": "",
+        "name": "MyCinemaEuropeHD我的歐洲電影",
+        "pid": "litv-ftv10,1,6"
+    }
   ]
 }
